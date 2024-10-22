@@ -35,3 +35,20 @@
 .pagetxt{
     margin-bottom: 1cm !important;
 }
+.report-section {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+}
+
+
+.colon {
+    padding: 0 8px;
+    vertical-align: top;
+}
+
+.w-100px{
+    min-width: 100px;
+}
+.w-200px{
+    min-width: 200px;
+}
