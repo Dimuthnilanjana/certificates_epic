@@ -1,0 +1,37 @@
+@media print {
+    @page {
+        size: A4;
+        margin: 20mm;
+    }
+    body {
+        padding: 0;
+        margin: 0;
+    }
+}
+
+.page {
+    width: 210mm;
+    min-height: 297mm;
+    padding: 48px;
+    padding-top:24px ;
+    margin: 0 auto;
+    background: rgb(255, 255, 255);
+    border: #000 1px solid;
+     
+}
+.main{
+    margin-left: 2cm;
+}
+
+.logo {
+    width: 60px;
+    height: auto;
+}
+.info-box {
+    border: 1px solid #000;
+    padding: 15px;
+    margin: 20px 0;
+}
+.pagetxt{
+    margin-bottom: 1cm !important;
+}
